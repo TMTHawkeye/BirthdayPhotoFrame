@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BirthdayPhotoFrame</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="quote_1">It’s another birthday for you.God picked another
+petal on your flower,Wishing that your flowers
+bloom for year.Happy Birthday!</string>
+    <string name="quote_2">Just wanted to be the first one to wish you happy birthday so I can feel superior to your other well-wishers. So, happy birthday!</string>
+    <string name="quote_3">Happy birthday to someone who is forever young!</string>
+    <string name="quote_4">Forget about the past, you can’t change it. Forget about the future, you can’t predict it. Forget about the present, I didn’t get you one. Happy birthday!</string>
+    <string name="quote_5">A friend like you is more priceless than the most beautiful diamond. You are not only strong and wise but kind and thoughtful as well. Your birthday is the perfect opportunity to show you how much I care and how grateful I am to have you in my life. Happy birthday!</string>
+    <string name="quote_6">Words alone are not enough to express how happy I am you are celebrating another year of your life! My wish for you on your birthday is that you are, and will always be, happy and healthy. Don’t ever change! Happy birthday my dear!</string>
+    <string name="quote_7">Happy birthday to one of my best friends. Here’s to another year of laughing at our own jokes and keeping each other sane! Love you and happy birthday!</string>
+    <string name="quote_8">Sending you a birthday wish wrapped with all my love. Have a very happy birthday!</string>
+    <string name="quote_9">On this wonderful day, I wish you the best that life has to offer! Happy birthday!</string>
+    <string name="quote_10">Congratulations on being even more experienced. I’m not sure what you learned this year, but every experience transforms us into the people we are today. Happy birthday!</string>
+    <string name="quote_11">Don’t get all weird about getting older! Our age is merely the number of years the world has been enjoying us!</string>
+    <string name="quote_12">Happy birthday to one of the few people whose birthday I can remember without a Facebook reminder.</string>
+    <string name="quote_13">You’re older today than yesterday but younger than tomorrow, happy birthday!</string>
+    <string name="quote_14">I may not be by your side celebrating your special day with you, but I want you to know that I’m thinking of you and wishing you a wonderful birthday.</string>
+    <string name="quote_15">Congrats on another trip around the sun! I hope this day is full of cake, memories, and fun.</string>
+    <string name="quote_16">Wowee! another loop around the sun. HAPPY BIRTHDAY!!</string>
+    <string name="quote_17">Happy birthday to the beautiful, intelligent, charming person I call my best friend!</string>
+    <string name="quote_18">Happy birthday! Hope you have a warm day, I am thinking of you always, and I will see you soon!</string>
+    <string name="quote_20">Happy birthday to someone who is smart, gorgeous, funny and reminds me a lot of myself… from one fabulous chick to another!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

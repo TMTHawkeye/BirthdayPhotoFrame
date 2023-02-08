@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/balloons_icon_svg.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/f_1.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/frame_1.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/frame_9.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/home_icon_svg.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/img_list.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/nav_view_color.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/nav_view_color_edit_screen.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/round_color_selection.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/rounded_background_navbar.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/drawable/tab_color_bg.xml" value="0.1775" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/font/gilory.xml" value="0.284375" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/font/gilroy.xml" value="0.9821428571428571" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_add_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_birthday_photo_frames.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_birthday_photo_invitations.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_custom_dialogue_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_custom_dialogue_add_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_custom_dialogue_save_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_edit_photo_frame.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/fragment_fragmet_text_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/fragment_photo_on_cake.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/fragment_photo_on_frame.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/frame_photos_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/row_font_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/row_for_colors_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/row_for_recyclerview.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/row_layout_for_fragments.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/row_quotes_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/toolbar.xml" value="0.19342053111375346" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/layout/toolbar_frame.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/FluterApp/BirthdayPhotoFrame/app/src/main/res/menu/bottom_navigation_menu_frames.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

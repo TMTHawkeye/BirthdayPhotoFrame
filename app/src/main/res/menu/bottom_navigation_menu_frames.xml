@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        android:icon="@drawable/camera_edit_svg"
+        android:title="Add Photo"/>
+    <item
+        android:id="@+id/page_2"
+
+        android:icon="@drawable/frames_edit_svg"
+        android:title="Frames"/>
+    <item
+        android:id="@+id/page_3"
+        android:icon="@drawable/text_edit_svg"
+        android:title="Add Text"/>
+    <item
+        android:id="@+id/page_4"
+        android:icon="@drawable/sticker_edit_svg"
+        android:title="Stickers"/>
+</menu>

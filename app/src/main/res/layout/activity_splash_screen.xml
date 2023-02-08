@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    tools:context=".SplashScreenActivity">
+
+
+    <LinearLayout
+        android:id="@+id/l_splash"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal" />
+
+    <RelativeLayout
+        android:layout_centerInParent="true"
+        android:id="@+id/l1_splash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/l_splash">
+
+        <ImageView
+            android:id="@+id/main_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="30dp"
+            android:transitionName="logo_image"
+            app:srcCompat="@drawable/balloons_icon_svg" />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/l1_splash"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:transitionName="logo_text"
+            android:id="@+id/rel_logo"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true">
+
+            <TextView
+                android:id="@+id/logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/gilroy_bold"
+                android:text="B i r t h d a y"
+                android:textColor="@color/yellow"
+                android:textSize="@dimen/_17sdp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/s_logo"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/logo"
+                android:fontFamily="@font/gilroy_regular"
+                android:text="Photo Frame Maker"
+                android:textColor="@color/yellow"
+                android:textSize="@dimen/_17sdp" />
+
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
